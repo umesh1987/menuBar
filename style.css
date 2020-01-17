@@ -1,0 +1,75 @@
+                    body {
+                        margin: 10px 15.2%;
+                    }
+                    
+                    .headmenu {
+                        background-color: rgb(119, 250, 250);
+                        padding: 20px;
+                        top: 0%;
+                        color: black;
+                        font-size: 18px;
+                        font-family: Verdana, Geneva, Tahoma, sans-serif;
+                    }
+                    
+                    .home {
+                        position: absolute;
+                        left: 17%;
+                        top: 17px;
+                    }
+                    
+                    .events {
+                        position: absolute;
+                        left: 24%;
+                        top: 17px;
+                    }
+                    
+                    .about {
+                        position: absolute;
+                        left: 31%;
+                        top: 17px;
+                    }
+                    
+                    .staff {
+                        position: absolute;
+                        left: 40%;
+                        top: 17px;
+                    }
+                    
+                    .careers {
+                        position: absolute;
+                        left: 46%;
+                        top: 17px;
+                    }
+                    
+                    .searchCont {
+                        position: absolute;
+                        right: 21.5%;
+                        padding: 6px 10px;
+                        top: 11px;
+                        background: rgb(119, 250, 250);
+                        font-size: 17px;
+                        border: rgb(119, 250, 250);
+                        cursor: e-resize;
+                    }
+                    
+                    .search {
+                        position: absolute;
+                        right: 17%;
+                        top: 17px;
+                    }
+                    
+                    img {
+                        height: 426px;
+                        width: 948px;
+                    }
+                    
+                    a {
+                        text-decoration: none;
+                        color: black;
+                    }
+                    
+                    a:hover,
+                    a:active {
+                        background-color: rgb(198, 247, 247);
+                        color: blue;
+                    }
